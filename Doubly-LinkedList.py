@@ -51,10 +51,21 @@ def main():
     dll.printList(dll.head)
 
     dll.deleteNode(dll.head)
-    #dll.deleteNode(dll.head.next)
 
     print ("\n Modified Linked List")
     dll.printList(dll.head)
 
 if __name__ == '__main__':
     main()
+
+    
+         			                ###########################################
+                                    #     + +++++ +                           #
+                                ### #    +         +              + +++ +     # ###
+                                #   #   +     $     +           +    _    +   #   #
+                                ### #    +         +  _python_  +         +   # ###
+                                    #     + +++++ +               + +++ +     #
+                                    #                                         #                                  
+                                    #     https://github.com/mahdikhaligh     #
+                                    #                                         #
+                                    ###########################################
